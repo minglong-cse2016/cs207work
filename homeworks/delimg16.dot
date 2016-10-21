@@ -1,0 +1,146 @@
+
+    digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    1 -> 2[side=left];
+1 -> 3;
+2 -> 4[side=left];
+2 -> 5;
+3 -> 6[side=left];
+3 -> 7;
+4 -> 8[side=left];
+4 -> 9;
+5 -> 10[side=left];
+5 -> 11;
+6 -> 12[side=left];
+6 -> 13;
+7 -> 14[side=left];
+7 -> 15;
+8 -> 16[side=left];
+8 -> 17;
+9 -> 18[side=left];
+9 -> 19;
+10 -> 20[side=left];
+10 -> 21;
+11 -> 22[side=left];
+11 -> 23;
+12 -> 24[side=left];
+12 -> 25;
+13 -> 26[side=left];
+13 -> 27;
+14 -> 28[side=left];
+14 -> 29;
+15 -> 30[side=left];
+15 -> 31;
+16 -> 32[side=left];
+16 -> 33;
+17 -> 34[side=left];
+17 -> 35;
+18 -> 36[side=left];
+18 -> 37;
+19 -> 38[side=left];
+19 -> 39;
+20 -> 40[side=left];
+20 -> 41;
+21 -> 42[side=left];
+21 -> 43;
+22 -> 44[side=left];
+22 -> 45;
+23 -> 46[side=left];
+23 -> 47;
+24 -> 48[side=left];
+24 -> 49;
+25 -> 50[side=left];
+25 -> 51;
+26 -> 52[side=left];
+26 -> 53;
+27 -> 54[side=left];
+27 -> 55;
+28 -> 56[side=left];
+28 -> 57;
+29 -> 58[side=left];
+29 -> 59;
+30 -> 60[side=left];
+30 -> 61;
+31 -> 62[side=left];
+31 -> 63;
+32 -> 64[side=left];
+32 -> 65;
+33 -> 66[side=left];
+33 -> 67;
+34 -> 68[side=left];
+34 -> 69;
+35 -> 70[side=left];
+1[label="482"]
+2[label="536"]
+3[label="485"]
+4[label="588"]
+5[label="538"]
+6[label="542"]
+7[label="498"]
+8[label="670"]
+9[label="601"]
+10[label="567"]
+11[label="629"]
+12[label="641"]
+13[label="542"]
+14[label="509"]
+15[label="503"]
+16[label="994"]
+17[label="765"]
+18[label="703"]
+19[label="664"]
+20[label="708"]
+21[label="620"]
+22[label="816"]
+23[label="720"]
+24[label="731"]
+25[label="818"]
+26[label="639"]
+27[label="612"]
+28[label="629"]
+29[label="518"]
+30[label="603"]
+31[label="511"]
+32[label="809"]
+33[label="739"]
+34[label="807"]
+35[label="770"]
+36[label="845"]
+37[label="745"]
+38[label="768"]
+39[label="727"]
+40[label="734"]
+41[label="819"]
+42[label="982"]
+43[label="639"]
+44[label="821"]
+45[label="856"]
+46[label="960"]
+47[label="864"]
+48[label="814"]
+49[label="762"]
+50[label="827"]
+51[label="865"]
+52[label="805"]
+53[label="687"]
+54[label="848"]
+55[label="890"]
+56[label="934"]
+57[label="686"]
+58[label="943"]
+59[label="577"]
+60[label="961"]
+61[label="804"]
+62[label="994"]
+63[label="673"]
+64[label="852"]
+65[label="892"]
+66[label="778"]
+67[label="986"]
+68[label="955"]
+69[label="852"]
+70[label="980"]}

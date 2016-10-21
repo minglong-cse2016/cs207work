@@ -1,0 +1,128 @@
+
+    digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    1 -> 2[side=left];
+1 -> 3;
+2 -> 4[side=left];
+2 -> 5;
+3 -> 6[side=left];
+3 -> 7;
+4 -> 8[side=left];
+4 -> 9;
+5 -> 10[side=left];
+5 -> 11;
+6 -> 12[side=left];
+6 -> 13;
+7 -> 14[side=left];
+7 -> 15;
+8 -> 16[side=left];
+8 -> 17;
+9 -> 18[side=left];
+9 -> 19;
+10 -> 20[side=left];
+10 -> 21;
+11 -> 22[side=left];
+11 -> 23;
+12 -> 24[side=left];
+12 -> 25;
+13 -> 26[side=left];
+13 -> 27;
+14 -> 28[side=left];
+14 -> 29;
+15 -> 30[side=left];
+15 -> 31;
+16 -> 32[side=left];
+16 -> 33;
+17 -> 34[side=left];
+17 -> 35;
+18 -> 36[side=left];
+18 -> 37;
+19 -> 38[side=left];
+19 -> 39;
+20 -> 40[side=left];
+20 -> 41;
+21 -> 42[side=left];
+21 -> 43;
+22 -> 44[side=left];
+22 -> 45;
+23 -> 46[side=left];
+23 -> 47;
+24 -> 48[side=left];
+24 -> 49;
+25 -> 50[side=left];
+25 -> 51;
+26 -> 52[side=left];
+26 -> 53;
+27 -> 54[side=left];
+27 -> 55;
+28 -> 56[side=left];
+28 -> 57;
+29 -> 58[side=left];
+29 -> 59;
+30 -> 60[side=left];
+30 -> 61;
+1[label="576"]
+2[label="842"]
+3[label="678"]
+4[label="651"]
+5[label="847"]
+6[label="600"]
+7[label="543"]
+8[label="589"]
+9[label="592"]
+10[label="576"]
+11[label="891"]
+12[label="606"]
+13[label="716"]
+14[label="542"]
+15[label="570"]
+16[label="749"]
+17[label="590"]
+18[label="570"]
+19[label="553"]
+20[label="659"]
+21[label="807"]
+22[label="763"]
+23[label="933"]
+24[label="772"]
+25[label="720"]
+26[label="736"]
+27[label="727"]
+28[label="722"]
+29[label="561"]
+30[label="552"]
+31[label="590"]
+32[label="914"]
+33[label="581"]
+34[label="916"]
+35[label="924"]
+36[label="774"]
+37[label="644"]
+38[label="813"]
+39[label="757"]
+40[label="928"]
+41[label="740"]
+42[label="957"]
+43[label="818"]
+44[label="920"]
+45[label="814"]
+46[label="992"]
+47[label="977"]
+48[label="857"]
+49[label="854"]
+50[label="994"]
+51[label="879"]
+52[label="955"]
+53[label="931"]
+54[label="914"]
+55[label="932"]
+56[label="927"]
+57[label="795"]
+58[label="733"]
+59[label="565"]
+60[label="847"]
+61[label="609"]}

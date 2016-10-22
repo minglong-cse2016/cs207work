@@ -35,34 +35,96 @@
 14 -> 29;
 15 -> 30[side=left];
 15 -> 31;
-1[label="509"]
-2[label="588"]
-3[label="536"]
-4[label="664"]
-5[label="620"]
-6[label="542"]
-7[label="538"]
-8[label="778"]
-9[label="703"]
-10[label="639"]
-11[label="629"]
-12[label="731"]
-13[label="542"]
-14[label="629"]
-15[label="804"]
-16[label="809"]
-17[label="955"]
-18[label="852"]
-19[label="727"]
-20[label="734"]
-21[label="982"]
-22[label="816"]
-23[label="864"]
-24[label="814"]
-25[label="827"]
-26[label="805"]
-27[label="612"]
-28[label="934"]
-29[label="686"]
-30[label="961"]
-31[label="994"]}
+16 -> 32[side=left];
+16 -> 33;
+17 -> 34[side=left];
+17 -> 35;
+18 -> 36[side=left];
+18 -> 37;
+19 -> 38[side=left];
+19 -> 39;
+20 -> 40[side=left];
+20 -> 41;
+21 -> 42[side=left];
+21 -> 43;
+22 -> 44[side=left];
+22 -> 45;
+23 -> 46[side=left];
+23 -> 47;
+24 -> 48[side=left];
+24 -> 49;
+25 -> 50[side=left];
+25 -> 51;
+26 -> 52[side=left];
+26 -> 53;
+27 -> 54[side=left];
+27 -> 55;
+28 -> 56[side=left];
+28 -> 57;
+29 -> 58[side=left];
+29 -> 59;
+30 -> 60[side=left];
+30 -> 61;
+31 -> 62[side=left];
+1[label="506"]
+2[label="525"]
+3[label="508"]
+4[label="608"]
+5[label="578"]
+6[label="544"]
+7[label="512"]
+8[label="664"]
+9[label="622"]
+10[label="699"]
+11[label="600"]
+12[label="549"]
+13[label="669"]
+14[label="563"]
+15[label="797"]
+16[label="757"]
+17[label="668"]
+18[label="660"]
+19[label="653"]
+20[label="809"]
+21[label="743"]
+22[label="601"]
+23[label="769"]
+24[label="781"]
+25[label="671"]
+26[label="795"]
+27[label="740"]
+28[label="794"]
+29[label="599"]
+30[label="899"]
+31[label="811"]
+32[label="912"]
+33[label="848"]
+34[label="863"]
+35[label="725"]
+36[label="947"]
+37[label="816"]
+38[label="972"]
+39[label="852"]
+40[label="994"]
+41[label="996"]
+42[label="868"]
+43[label="811"]
+44[label="712"]
+45[label="663"]
+46[label="864"]
+47[label="895"]
+48[label="967"]
+49[label="806"]
+50[label="959"]
+51[label="950"]
+52[label="948"]
+53[label="914"]
+54[label="909"]
+55[label="829"]
+56[label="999"]
+57[label="816"]
+58[label="992"]
+59[label="738"]
+60[label="827"]
+61[label="821"]
+62[label="894"]}
